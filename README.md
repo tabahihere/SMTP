@@ -16,9 +16,10 @@ A mail/message transfer agent (MTA) is a software that transfers emails between 
 - Once the MTA gets the email, relaying comes into play. are often called mail relays.
 - Then it hits the mail delivery agent (MDA).
 - The email sending is carried out using SMTP (or extended SMTP), and for the final stage (MDA to MUA), POP3 or IMAP4 is used. For more on differences between these    email protocols, read SMTP vs. IMAP vs. POP3. 
-```
+
 ![image](https://user-images.githubusercontent.com/73932937/116781191-0d9f5580-aa9f-11eb-85d0-18886acab81d.png)
-```
+
+
 
 ## MTAs do the following:
 
